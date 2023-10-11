@@ -1,0 +1,3 @@
+[submodule "src_rs"]
+	path = src_rs
+	url = ./src_rs
